@@ -13,7 +13,7 @@ Hemos colaborado en el proyecto:
 - Lucas
 - Ana
 
-1. Ésta modificación nos sirve para aprender markdown que por ejemplo los títulos `<H1> </H1>´ los coloca con una almohadilla.
+ Ésta modificación nos sirve para aprender markdown que por ejemplo los títulos `<H1> </H1>´ los coloca con una almohadilla.
 
 ---
 
@@ -24,4 +24,4 @@ Hemos colaborado en el proyecto:
 | ---- | --- | --- |
 | 1.0 | Creación del readme | Diego Romero Martinez
 
-Me gustas :heart:
+
